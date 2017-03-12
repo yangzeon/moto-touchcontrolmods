@@ -10,3 +10,4 @@
 	游戏手柄（扩展设备）：丰富的实体按钮。作为第三方配件控制器手柄，可通过适配控制任何加装接收器的工具。
 	WIFI USB 鼠标
 	WIFI TO 5.8G 控制器（遥控车、飞机）
+	<img>https://github.com/yangzeon/moto-touchcontrolmods/blob/master/pic/2.jpg</img>
