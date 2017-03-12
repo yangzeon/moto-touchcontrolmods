@@ -6,8 +6,8 @@
 
 	选配工具，猫咪监察配件
 	
-	触摸板（标准设备）：自定义手势控制 APP。刷微博、twitter、自定义手势、阅读工具翻页等手势。
-	游戏手柄（扩展设备）：丰富的实体按钮。作为第三方配件控制器手柄，可通过适配控制任何加装接收器的工具。
-	WIFI USB 鼠标
-	WIFI TO 5.8G 控制器（遥控车、飞机）
-	<img>https://github.com/yangzeon/moto-touchcontrolmods/blob/master/pic/2.jpg</img>
+	#触摸板（标准设备）：自定义手势控制 APP。刷微博、twitter、自定义手势、阅读工具翻页等手势。
+	#游戏手柄（扩展设备）：丰富的实体按钮。作为第三方配件控制器手柄，可通过适配控制任何加装接收器的工具。
+		#WIFI USB 鼠标
+		#WIFI TO 5.8G 控制器（遥控车、飞机）
+![pic](https://github.com/yangzeon/moto-touchcontrolmods/blob/master/pic/2.jpg)
